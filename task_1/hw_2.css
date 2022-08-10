@@ -1,0 +1,20 @@
+table.menu {
+    width: auto;
+    margin-right: 0px;
+    margin-bottom: 10000px;
+}
+
+.logo {
+    margin-top: 10%;
+
+}
+
+.one {
+    margin-right: 500px;
+    text-align: center;
+}
+
+.two {
+    margin-left: 400px;
+    text-align: left;
+}
